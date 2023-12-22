@@ -1,0 +1,11 @@
+{"data":
+{"user": {
+"id": 79,
+"name": "Hashem",
+"email": "Hashem@gmail.com"},
+"token":" eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2VyYWFzb2Z0LmludGVncmF0aW9uMjUuY29tL2FwaS9yZWdpc3RlciIsImlhdCI6MTcwMDk2NzM3MiwiZXhwIjoxNzAwOTcwOTcyLCJuYmYiOjE3MDA5NjczNzIsImp0aSI6IlkzOUJXWEhTUEtCM3ZGOEEiLCJzdWIiOiI3OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.Nzdq5UPUmJzAX4t60Hb9KDP_u5wmj3r7ceVGhV2p_rY"},
+"message": "Register Successfully,",
+"error": [],
+"status": 200}
+
+

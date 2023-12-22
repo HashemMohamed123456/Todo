@@ -1,0 +1,12 @@
+{
+  "data":
+{"user": {
+  "id": 89,
+  "name": "ahmed",
+  "email": "cr7@gmail.com"
+},
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2VyYWFzb2Z0LmludGVncmF0aW9uMjUuY29tL2FwaS9sb2dpbiIsImlhdCI6MTcwMTA5NzAyNywiZXhwIjoxNzAxMTAwNjI3LCJuYmYiOjE3MDEwOTcwMjcsImp0aSI6IkQ2dzZVV3Z4RjNZTUgzaU8iLCJzdWIiOiI4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.B1DiCHb_0-2-1yM-Q15nQ-Uz-KzcVijzvHuuzBrNAQo"
+},
+  "message": "Login Successfully",
+  "error": [],
+  "status": 200}
